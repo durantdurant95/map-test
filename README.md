@@ -1,6 +1,15 @@
-# Welcome to your Expo app 👋
+# React Native Maps Test App 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app) to demonstrate and test the functionality of `react-native-maps`.
+
+## About This App
+
+This test application showcases how to implement and use maps in a React Native environment using the `react-native-maps` library. It demonstrates various map features including:
+
+- Displaying interactive maps
+- Adding custom markers
+- Handling map region changes
+- Implementing location-based services
 
 ## Get started
 
